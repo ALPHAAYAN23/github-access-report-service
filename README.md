@@ -90,7 +90,7 @@ The Personal Access Token should have permission to read repository information 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/github-access-report-service.git
+git clone https://github.com/ALPHAAYAN23/github-access-report-service.git
 ```
 
 ### Move into the project
@@ -210,7 +210,6 @@ A synchronized block is used while updating the shared access report map to avoi
 Custom exceptions and a global exception handler ensure consistent JSON error responses.
 
 ---
-
 ## Scalability
 
 The service is designed considering organizations with a large number of repositories and collaborators.
