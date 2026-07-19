@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+github:
+  organization: spring-projects
+  token: YOUR_GITHUB_TOKEN
